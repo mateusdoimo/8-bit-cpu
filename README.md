@@ -1,7 +1,7 @@
 # 8 bit CPU
 
-<h4>Descrição:</h4>
-<p>Esse projeto é apenas para estudo e diversão. O desenvolvimento foi didatico para aprender um pouco mais spbre arquiture e organização de computadores.</p>
+<h4>Description</h4>
+<p>This project is just for study and fun. The development was didactic to learn a little more about architecture and computer organization.</p>
 
 
 <h3>Execution</h3>
