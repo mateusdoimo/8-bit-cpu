@@ -1,1 +1,2 @@
-# 8 BIT CPU
+# 8 bit CPU
+
