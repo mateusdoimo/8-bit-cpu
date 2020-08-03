@@ -12,8 +12,8 @@
 <h4>Projeto</h4>
 <p>Para executar o CPU, basta abrir o arquivo .circ no Logisim, adicionar o código binario na memória RAM e iniciar a simulação. O pino run deve estar setado em 1.</p>
 
-<img src="https://github.com/mateusdoimo/8-bit-cpu/blob/master/img/cpu.png">
-<img src="https://github.com/mateusdoimo/8-bit-cpu/blob/master/img/cpu-2.png">
+<img width="50%" src="https://github.com/mateusdoimo/8-bit-cpu/blob/master/img/cpu.png">
+<img width="50%" src="https://github.com/mateusdoimo/8-bit-cpu/blob/master/img/cpu-2.png">
 <hr>
 <h3>Referências</h3>
-<p>Esse projeto teve como base o desenvolvimento do CPU de 8 bits do <a href="https://www.youtube.com/watch?v=2llmPWBYvQo&list=PLZ8dBTV2_5HTB43Mhfz-TyIATkECrp8XY">WR Kits</a>.</p>
+<p>Esse projeto teve como referência o desenvolvimento do CPU de 8 bits do <a href="https://www.youtube.com/watch?v=2llmPWBYvQo&list=PLZ8dBTV2_5HTB43Mhfz-TyIATkECrp8XY">WR Kits</a>.</p>
